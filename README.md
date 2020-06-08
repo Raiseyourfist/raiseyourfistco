@@ -1,9 +1,0 @@
-BLACK LIVES MATTER
-
-I raise my fist in support of
-#BLACKLIVESMATTER #DEFUNDTHEPOLICE #STAYACCOUNTABLE
-
-RAISE YOUR FIST
-Join the (xFists) Fists!
-
-✊🏿✊🏾✊🏽✊🏼✊🏻✊
