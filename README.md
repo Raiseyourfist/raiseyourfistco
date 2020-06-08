@@ -1,6 +1,9 @@
-# raiseyourfist.co
-A reactive, virtual protest accountability service to make sure you are always taking action.
+BLACK LIVES MATTER
 
-#BLACKLIVESMATTER
-#DEFUNDTHEPOLICE
-#STAYACCOUNTABLE
+I raise my fist in support of
+#BLACKLIVESMATTER #DEFUNDTHEPOLICE #STAYACCOUNTABLE
+
+RAISE YOUR FIST
+Join the (xFists) Fists!
+
+✊🏿✊🏾✊🏽✊🏼✊🏻✊
