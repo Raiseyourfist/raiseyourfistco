@@ -1,0 +1,64 @@
+html{
+        font-size: 75%;
+        @media only screen and (max-device-width: 480px) {
+            html {
+                font-size: 100%;
+            }
+        }
+    }
+    body{
+        background-color: #000000;
+        color: white;
+        font-family: 'Bungee', cursive;
+        font-size: 1em;
+    }
+    h1 {
+        color: white;
+        font-size: 10em;
+        font-family: 'Bungee', cursive;
+        margin: 10px;
+    }
+    h2 {
+        color: white;
+        font-size: 3em;
+        font-family: 'Bungee', cursive;
+        margin: 2px;
+    }
+    h3 {
+        color: white;
+        font-size: 1.5em;
+        font-family: 'Bungee', cursive;
+        margin: 2px;
+    }
+    a {
+        color: black;
+        background-color: white;
+        font-size: 5em;
+        font-family: 'Bungee', cursive;
+        margin: 2px;
+    }
+    a:hover {
+        background-color: black;
+        color: white;
+    }
+    .info {
+      position: relative;
+      display: inline-block;
+    }
+    .info .infotext {
+      visibility: hidden;
+      width: 120px;
+      color: black;
+      font-size: .35em;
+      background-color: white;
+      padding: 5px 0;
+      border-radius: 6px;
+      position: absolute;
+      z-index: 1;
+    }
+    .info:hover .infotext {
+      visibility: visible;
+    }
+    div.fists{
+            font-size: 3em;
+    }
